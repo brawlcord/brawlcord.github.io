@@ -10,7 +10,7 @@ Next add my repo using the following command:
 
 > Note: [p] will be your prefix in all of the following commands.  
 
-`[p]repo add brawlcord https://github.com/brawlcord/brawlcord`
+`[p]repo add brawlcord https://github.com/brawlcord/brawlcord-red`
 
 Then, you will have to install cog by using the following command:
 
