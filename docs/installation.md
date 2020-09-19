@@ -2,7 +2,7 @@
 
 While you can host an instance of Brawlcord yourself, please use [the public Brawlcord bot](https://discord.com/oauth2/authorize?client_id=644118957917208576&scope=bot&permissions=322624&scope=bot) unless you have a good reason to host it yourself.
 
-**Important Note:** Brawlcord is getting rewritten as a standalone bot in a different programming language. The future versions of the bot will not be available as Red cogs. See [this](discontinuing-red) for more info.
+**Important Note:** Brawlcord is getting rewritten as a standalone bot in a different programming language. The future versions of the bot will not be available as Red cogs. See [this](discontinuing-red.md) for more info.
 
 First make sure you have Red Bot V3 installed. Instructions to install Red Bot can be found [here](https://github.com/Cog-Creators/Red-DiscordBot#installation).
 
@@ -28,6 +28,7 @@ Make sure that you use the `[p]cog update` command to periodically update your c
 
 - [Brawlcord Community Server](https://discord.gg/7zJ3PbJ)
 - [Brawlcord Emotes: SP 1](https://discord.gg/rxZaMmN)
+- [Brawlcord Emotes: SP 2](https://discord.gg/HydSxwW)
 - [Brawlcord Emotes: Ranks](https://discord.gg/5tT88HM)
 - [Brawlcord Emotes: Brawlers and Game Modes](https://discord.gg/77Edmna)
 
