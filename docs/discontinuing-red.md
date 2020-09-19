@@ -27,4 +27,4 @@ Brawlcord's Red cog GitHub repo has changed from `brawlcord/brawlcord` to `brawl
 *Load cog*  
 `[p]load brawlcord`
 
-Using these commands WILL preserve the previous data. Note that the cog will not get update anymore. The cog may stop working due to a breaking change on Red. Brawlcord supports a maximum of Red v3.4.
+Using these commands WILL preserve the previous data. Note that the cog will not get updates anymore. It may stop working due to a breaking change on Red. It supports a maximum of Red v3.4.
